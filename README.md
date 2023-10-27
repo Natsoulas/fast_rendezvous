@@ -1,7 +1,7 @@
 # lqr_rendezvous
 
 This is a C++ simulation of spaceflight dynamics for a satellite in low-earth orbit.
-It will implement a control law for a time-optimal rendezvous with another satellite.
+It will implement an optimal LQR control law for rendezvous with another satellite.
 
 ## Getting Started
 
